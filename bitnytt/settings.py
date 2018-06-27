@@ -138,7 +138,9 @@ INSTALLED_APPS = (
     'djangocms_snippet',
     'djangocms_googlemap',
     'djangocms_video',
-    'bitnytt'
+    'bitnytt',
+    'polls',
+    'polls_cms_integration',
 )
 
 LANGUAGES = (
